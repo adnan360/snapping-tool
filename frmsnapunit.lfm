@@ -1,0 +1,31 @@
+object frmSnap: TfrmSnap
+  Left = 238
+  Height = 240
+  Top = 153
+  Width = 320
+  BorderStyle = bsNone
+  Caption = 'Snap Window'
+  ClientHeight = 240
+  ClientWidth = 320
+  OnClose = FormClose
+  OnCreate = FormCreate
+  LCLVersion = '1.6.0.4'
+  object imgSnap: TImage
+    Cursor = crCross
+    Left = 0
+    Height = 240
+    Top = 0
+    Width = 320
+    Align = alClient
+    OnMouseDown = imgSnapMouseDown
+    OnMouseMove = imgSnapMouseMove
+    OnMouseUp = imgSnapMouseUp
+  end
+  object imgSelect: TImage
+    Left = 152
+    Height = 66
+    Top = 65
+    Width = 98
+    Visible = False
+  end
+end

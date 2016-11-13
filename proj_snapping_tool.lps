@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Release"/>
+    <Units Count="21">
+      <Unit0>
+        <Filename Value="proj_snapping_tool.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="97"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="frmcontrolunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSnapControl"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="12"/>
+        <CursorPos X="7" Y="90"/>
+        <UsageCount Value="97"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="frmsnapunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSnap"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="47"/>
+        <CursorPos X="51" Y="108"/>
+        <UsageCount Value="97"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="frmeditorunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmEditor"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="167"/>
+        <CursorPos X="30" Y="179"/>
+        <UsageCount Value="61"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="frmaboutunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\3.0.0\source\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="180"/>
+        <CursorPos X="23" Y="193"/>
+        <UsageCount Value="1"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.0.0\source\rtl\inc\objpas.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="272"/>
+        <CursorPos X="9" Y="277"/>
+        <UsageCount Value="1"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="839"/>
+        <CursorPos X="17" Y="849"/>
+        <UsageCount Value="1"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\lcl\include\custombitmap.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos X="3" Y="50"/>
+        <UsageCount Value="1"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\lcl\include\rasterimage.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="274"/>
+        <CursorPos X="3" Y="276"/>
+        <UsageCount Value="1"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\lcl\include\graphic.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="3" Y="15"/>
+        <UsageCount Value="1"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="inc\bgrabitmap\bgradefaultbitmap.pas"/>
+        <UnitName Value="BGRADefaultBitmap"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1333"/>
+        <CursorPos X="3" Y="1336"/>
+        <UsageCount Value="2"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1068"/>
+        <CursorPos X="5" Y="1078"/>
+        <UsageCount Value="17"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="inc\bgrabitmap\bgracustombitmap.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1671"/>
+        <CursorPos X="3" Y="1676"/>
+        <UsageCount Value="13"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus\lcl\include\clipbrd.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="710"/>
+        <CursorPos Y="721"/>
+        <UsageCount Value="7"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2075"/>
+        <CursorPos Y="2086"/>
+        <UsageCount Value="11"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\fpc\3.0.0\source\rtl\objpas\sysutils\osutilsh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="11" Y="30"/>
+        <UsageCount Value="7"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1188"/>
+        <CursorPos X="14" Y="1197"/>
+        <UsageCount Value="11"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\lazarus\fpc\3.0.0\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="109"/>
+        <CursorPos X="47" Y="119"/>
+        <UsageCount Value="11"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="526"/>
+        <CursorPos X="10" Y="537"/>
+        <UsageCount Value="11"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\lazarus\lcl\include\messagedialogs.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="220"/>
+        <CursorPos X="3" Y="224"/>
+        <UsageCount Value="11"/>
+      </Unit20>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="242" Column="14" TopLine="224"/>
+      </Position1>
+      <Position2>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="210" Column="15" TopLine="200"/>
+      </Position2>
+      <Position3>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="235" Column="35" TopLine="224"/>
+      </Position3>
+      <Position4>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="254" Column="32" TopLine="243"/>
+      </Position4>
+      <Position5>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="254" Column="26" TopLine="243"/>
+      </Position5>
+      <Position6>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="211" Column="31" TopLine="203"/>
+      </Position6>
+      <Position7>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="254" Column="27" TopLine="240"/>
+      </Position7>
+      <Position8>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="211" Column="30" TopLine="197"/>
+      </Position8>
+      <Position9>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="208" TopLine="193"/>
+      </Position9>
+      <Position10>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="53" TopLine="43"/>
+      </Position10>
+      <Position11>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="67" Column="13" TopLine="59"/>
+      </Position11>
+      <Position12>
+        <Filename Value="frmaboutunit.pas"/>
+      </Position12>
+      <Position13>
+        <Filename Value="frmcontrolunit.pas"/>
+        <Caret Line="95" Column="38" TopLine="79"/>
+      </Position13>
+      <Position14>
+        <Filename Value="frmcontrolunit.pas"/>
+        <Caret Line="64" Column="27" TopLine="61"/>
+      </Position14>
+      <Position15>
+        <Filename Value="frmcontrolunit.pas"/>
+        <Caret Line="58" Column="3" TopLine="56"/>
+      </Position15>
+      <Position16>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="160" Column="41" TopLine="158"/>
+      </Position16>
+      <Position17>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="193" Column="17" TopLine="160"/>
+      </Position17>
+      <Position18>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="179" TopLine="202"/>
+      </Position18>
+      <Position19>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="182" TopLine="172"/>
+      </Position19>
+      <Position20>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="106" Column="46" TopLine="94"/>
+      </Position20>
+      <Position21>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="192" Column="7" TopLine="179"/>
+      </Position21>
+      <Position22>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="174" Column="22" TopLine="164"/>
+      </Position22>
+      <Position23>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="87" Column="20" TopLine="70"/>
+      </Position23>
+      <Position24>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="177" Column="14" TopLine="169"/>
+      </Position24>
+      <Position25>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="177" Column="22" TopLine="175"/>
+      </Position25>
+      <Position26>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="178" Column="12" TopLine="165"/>
+      </Position26>
+      <Position27>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="183" Column="66" TopLine="177"/>
+      </Position27>
+      <Position28>
+        <Filename Value="frmeditorunit.pas"/>
+        <Caret Line="196" Column="21" TopLine="177"/>
+      </Position28>
+      <Position29>
+        <Filename Value="frmcontrolunit.pas"/>
+        <Caret Line="89" Column="7" TopLine="80"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
