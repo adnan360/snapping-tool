@@ -263,7 +263,7 @@ begin
     Drawings.Rectangle(
              0,0,drawings.Width,drawings.Height,BGRAPixelTransparent,BGRAPixelTransparent,dmset
     );
-    DrawingsCache.FillRect(0,0,500,500,clRed);
+    Drawings.FillRect(0,0,500,500,clRed);
     DrawingsCache.Draw(Drawings.Canvas, 0, 0, false);
     Drawings.RectangleAntialias(
                X, Y, mouseDownOrigin.x, mouseDownOrigin.y,
