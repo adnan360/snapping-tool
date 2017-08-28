@@ -13,6 +13,7 @@ uses
 {$R *.res}
 
 begin
+  Application.Title:='Snapping Tool';
   RequireDerivedFormResource:=True;
   Application.Initialize;
   Application.CreateForm(TfrmSnapControl, frmSnapControl);

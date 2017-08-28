@@ -40,5 +40,5 @@ Thumbs.db
 ########################
 backup
 lib
-bin 
+bin
 *.bak
