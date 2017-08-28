@@ -197,6 +197,8 @@ begin
   mouseDrawing:=False;
 
   PaintImage;
+  // Copy to clipboard automatically after a change
+  mnuCopyClick(Sender);
 end;
 
 procedure TfrmEditor.ExpandFinalCrop;
@@ -312,9 +314,22 @@ begin
 end;
 
 procedure TfrmEditor.mnuCopyClick(Sender: TObject);
+var
+  bmp: TBGRABitmap;
 begin
-  Clipboard.Clear;
-  Clipboard.Assign(Image.Bitmap);
+  try
+    bmp:=TBGRABitmap.Create(
+                           finalCrop.Right - finalCrop.Left,
+                           finalCrop.Bottom - finalCrop.Top
+                           );
+    Image.DrawPart(finalCrop, bmp.Canvas,0,0,true);
+    Drawings.DrawPart(finalCrop, bmp.Canvas,0,0,false);
+
+    Clipboard.Clear;
+    Clipboard.Assign(bmp.Bitmap);
+  finally
+    bmp.Free;
+  end;
 end;
 
 procedure TfrmEditor.mnuExitClick(Sender: TObject);
