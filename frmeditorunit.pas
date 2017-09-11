@@ -121,6 +121,9 @@ begin
 
   PaintImage;
 
+  // copy captured image to clipboard
+  mnuCopyClick(Sender);
+
 end;
 
 procedure TfrmEditor.Image1MouseDown(Sender: TObject; Button: TMouseButton;
